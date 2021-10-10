@@ -29,3 +29,11 @@ PlanMyTrip will use the data to recommend ideal hotels based on client's weather
     - Current Weather (including weather and max temp)
 
 ## Deliverable 3
+- Select 4 destinations based on the users previous preferences and determine a trip itinerary.
+- Create new DataFrames for the destinations chosen for the trip.
+- Generate a travel map with a layer depicting the directions from the start location to each stop during the trip.
+- Generate a travel map with info boxes at each destination with the following information:
+    - Hote Name
+    - City
+    - Country Code
+    - Current Weather (including weather and max temp)
